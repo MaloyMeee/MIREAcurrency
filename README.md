@@ -10,5 +10,5 @@
 ![image](https://user-images.githubusercontent.com/59707245/230184039-08b99ad6-4c73-4244-9367-0dcd4f3920c9.png)
 
 #Команда для запуска:
-
+Для запуска проекта необходима открыть папку с проектом и прописать в cmd следубщую команду:
 python CurrencyBot.py
